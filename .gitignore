@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-12MegaBlog/.env
+12MEGABLOG/.env
 
 # Editor directories and files
 .vscode/*
